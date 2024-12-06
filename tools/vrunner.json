@@ -1,0 +1,20 @@
+{
+    "$schema": "https://raw.githubusercontent.com/vanessa-opensource/vanessa-runner/develop/vanessa-runner-schema.json",
+    "default": {
+        "--ibconnection": "/F./build/ib",
+        "--db-user": "",
+        "--db-pwd": "",
+        "--root": ".",
+        "--workspace": ".",
+        "--v8version": "8.3.16",
+        "--locale": "ru",
+        "--language": "ru",
+        "--ordinaryapp": "-1"
+    },
+    "vanessa": {
+        "--vanessasettings": "./tools/VAParams.json",
+        "--pathvanessa": "./oscript_modules/vanessa-automation-single/vanessa-automation-single.epf",
+        "--additional": "/DisplayAllFunctions /L ru"
+    }
+}
+
