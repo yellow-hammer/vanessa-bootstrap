@@ -1,0 +1,26 @@
+{
+    "$schema": "https://1c-syntax.github.io/bsl-language-server/configuration/schema.json",
+    "language": "ru",
+    "diagnostics": {
+      "computeTrigger": "onSave",
+      "parameters": {
+        "LineLength": {
+          "maxLineLength": 300
+        },
+        "MethodSize": false,
+        "CyclomaticComplexity": {
+          "complexityThreshold": 5,
+          "checkModuleBody": true
+      }
+      },
+      "subsystemsFilter": {
+        "include": [
+          "СтандартныеПодсистемы"
+        ],
+        "exclude": [
+          "ВариантыОтчетов",
+          "ВерсионированиеОбъектов"
+        ]
+      }
+    }
+  }
