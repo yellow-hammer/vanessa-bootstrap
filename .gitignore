@@ -1,0 +1,10 @@
+.env
+build/
+allure-report/
+oscript_modules/
+
+ConfigDumpInfo.xml
+build
+out
+.scannerwork
+src\cf\ConfigDumpInfo.xml
