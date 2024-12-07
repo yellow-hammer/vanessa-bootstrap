@@ -6,5 +6,21 @@
         "features"
     ],
     "git.ignoreLimitWarning": true,
-
+    "conventionalCommits.scopes": [
+        "bootstrap",
+        "exchange2",
+        "exchange3",
+        "git",
+        "git-cliff",
+        "gitsync",
+        "integration",
+        "jenkins-lib",
+        "jenkins-shared",
+        "release",
+        "sonar",
+        "swagger",
+        "vanessa",
+        "vrunner",
+        "xunit"
+    ],
 }
