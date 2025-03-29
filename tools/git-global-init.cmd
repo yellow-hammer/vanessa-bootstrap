@@ -19,6 +19,8 @@ git config --global alias.st status
 git config --global alias.unstage "reset HEAD --"
 git config --global alias.last "log -1 HEAD"
 
+git config --global init.defaultBranch main
+
 @rem for Windows
 
 git config --global core.autocrlf true
