@@ -58,6 +58,12 @@
             "problemMatcher": []
         },
         {
+            "label": "decompile configuration",
+            "type": "shell",
+            "command": "oscript_modules\\bin\\vrunner.bat decompile -c -o src/cf ",
+            "problemMatcher": []
+        },
+        {
             "label": "syntax-check",
             "type": "shell",
             "command": "oscript_modules\\bin\\vrunner.bat syntax-check",
