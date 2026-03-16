@@ -2,7 +2,7 @@
 
 [![OpenYellow](https://openyellow.openintegrations.dev/data/badges/896614982.svg)](https://openyellow.org/grid?filter=top&repo=896614982)
 [![telegram chat](https://img.shields.io/badge/telegram-chat-green.svg)](https://t.me/wonder_yellow)
-[![Ask Devin](https://deepwiki.com/badge.svg)](https://app.devin.ai/org/yellow-hammer/wiki/yellow-hammer/vanessa-bootstrap)
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/yellow-hammer/vanessa-bootstrap)
 
 * содержит выработанную и обдуманную семантически структуру каталогов
 * содержит необходимые команды для быстрого старта
